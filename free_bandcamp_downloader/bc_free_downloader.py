@@ -60,7 +60,7 @@ class BCFreeDownloaderOptions:
     country: str = "United States"
     zipcode: str = "00000"
     email: str = "auto"
-    format: str = "FLAC"
+    format: str = "AIFF"
     dir: str = "."
     cookies: Optional[str] = None
     identity: Optional[str] = None
